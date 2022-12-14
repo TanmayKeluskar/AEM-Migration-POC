@@ -1,0 +1,10 @@
+<page>
+    <metadata>
+        <title>Page Title</title>
+        <description>A longer page description</description>
+    </metadata>
+    <content>
+        <!-- <![CDATA[<p>Here's some content!</p>]]> -->
+        <![CDATA[<p>Here's some content Tanmay!</p>]]>
+    </content>
+</page>

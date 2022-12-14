@@ -1,0 +1,117 @@
+<page>
+    <metadata>
+        <title>BT Price List</title>
+    </metadata>
+    <pageTitle>General Notes</pageTitle>
+    <pageSubTitle>Content</pageSubTitle>
+    <pageData>
+        <![CDATA[
+        <td height="100%" valign="top">
+         <table>
+            <tbody>
+               <tr>
+                  <td colspan="2" height="100%" id="0001-d0e90" title="Operative 17 Jan 2007" width="100%">
+                     <p>Rental fees for products and services, including those on BT `blue' bills are paid in advance. </p>
+                  </td>
+               </tr>
+               <tr>
+                  <td colspan="2" height="100%" id="0001-d0e99" title="Operative 17 Jan 2007" width="100%">
+                     <p>Product rental is based on a recurring fee that is charged in advance from the first day in each quarterly or monthly billing period. </p>
+                  </td>
+               </tr>
+               <tr>
+                  <td colspan="2" height="100%" id="ComponentImpl12715" title="Operative 17 Jan 2007" width="100%">
+                     <p><b>Customers who have VAT Exclusive Billing </b></p>
+                  </td>
+               </tr>
+               <tr>
+                  <td colspan="2" height="100%" id="0001-d0e108" title="Operative 17 Jan 2007" width="100%">
+                     <p>When customers take up new service on the 1st of the month, product rental will be charged from the date of service provision until the end of the current billing period, based on the quarterly charge divided by the appropriate number of months. When customers take up new service, on any other day of the month, product rental will be charged from the date of service provision until the last day of the current billing period. In these circumstances, the remaining number of days within the current billing period will determine the value of the rental charged in that period. The standard rental charge will be applied from the start of the first full billing period. </p>
+                  </td>
+               </tr>
+               <tr>
+                  <td colspan="2" height="100%" id="0001-d0e117" title="Operative 17 Jan 2007" width="100%">
+                     <p>When customers change products on the 1st of the month, advance rental paid for the `old' product will be refunded until the end of the current billing period, based on the quarterly charge divided by the appropriate number of months. Rental for the `new' product will be charged until the end of the current billing period, based on the quarterly charge divided by the appropriate number of months. When customers change products on any other day of the month, advance rental will be refunded from the date the `old' product is ceased until the last day of the current billing period. Rental will be charged for the `new' product from the date of provision until the last day of the current billing period. The remaining number of days within the current billing period will determine the value of the rental charged for the new product in that period. The standard rental charge for the product will be applied from the start of the next billing period. </p>
+                  </td>
+               </tr>
+               <tr>
+                  <td colspan="2" height="100%" id="0001-d0e126" title="Operative 17 Jan 2007" width="100%">
+                     <p>When customers cease service on the 1st of the month, advance rental will be refunded, based on the quarterly charge divided by the appropriate number of months remaining in the current billing period. When customers cease service, on any other day of the month, advance rental will be refunded from the date service is ceased until the last day of the current billing period. The remaining number of days within the current billing period will determine the value of the refunded rental. </p>
+                  </td>
+               </tr>
+               <tr>
+                  <td colspan="2" height="100%" id="ComponentImpl12720" title="Operative 17 Jan 2007" width="100%">
+                     <p><b>Customers who have VAT Inclusive Billing</b></p>
+                  </td>
+               </tr>
+               <tr>
+                  <td colspan="2" height="100%" id="ComponentImpl12719" title="Operative 17 Jan 2007" width="100%">
+                     <p>Customers will be billed from the date of service in advance for a full quarters rental. </p>
+                  </td>
+               </tr>
+               <tr>
+                  <td colspan="2" height="100%" id="ComponentImpl12718" title="Operative 17 Jan 2007" width="100%">
+                     <p>At the time of a change requested by the customer any balance of charges, previously paid in advance that remains on account, will be credited to the customers next quarterly bill. </p>
+                  </td>
+               </tr>
+               <tr>
+                  <td colspan="2" height="100%" id="ComponentImpl12717" title="Operative 17 Jan 2007" width="100%">
+                     <p>If customers cease service any advance rental will be refunded, from the date service is ceased until the last day of the billing period . The remaining number of days within the current billing period will determine the value of the refunded rental. Any charges payable by the customers to BT for ending their service early will be deducted from any rental refund payable to the customer. Any difference will either be refunded by BT or shall immediately become payable by the customer. </p>
+                  </td>
+               </tr>
+               <tr>
+                  <td colspan="2" height="100%" id="ComponentImpl12716" title="Operative 17 Jan 2007" width="100%">
+                     <p><b>All VAT Inclusive and VAT Exclusive Customers </b></p>
+                  </td>
+               </tr>
+               <tr>
+                  <td colspan="2" height="100%" id="0001-d0e135" title="Operative 11 Feb 2005" width="100%">
+                     <p>From time to time, BT may revise the recurring rental tariffs for products and services, including those billed via the BT `blue' bill.</p>
+                  </td>
+               </tr>
+               <tr>
+                  <td colspan="2" height="100%" id="0001-d0e144" title="Operative 17 Jan 2007" width="100%">
+                     <p>Any such changes will always take effect from the first day of the month in which the tariff revision is effective. </p>
+                  </td>
+               </tr>
+               <tr>
+                  <td colspan="2" height="100%" id="0001-d0e153" title="Operative 17 Jan 2007" width="100%">
+                     <p>Refunds of advance rentals are subject to applicable rules on termination charges, if any. </p>
+                  </td>
+               </tr>
+               <tr>
+                  <td colspan="2" height="100%" id="0001-d0e162" title="Operative 9 Apr 2003" width="100%">
+                     <p><b>Customers paying rental fees on a quarterly basis</b></p>
+                  </td>
+               </tr>
+               <tr>
+                  <td colspan="2" height="100%" id="0001-d0e172" title="Operative 9 Apr 2003" width="100%">
+                     <p>Where a rental tariff change occurs on the first day of the month in which a customer is billed, the new tariff will be charged in advance for the full bill period. For example, if a tariff changes on 1st June and the customer is billed in June, the customer will pay the new rate from 1st June to 31st August, and in each subsequent billing quarter - until such time as there is a further tariff change, the product is ceased, or service is terminated (whichever is the earliest).</p>
+                  </td>
+               </tr>
+               <tr>
+                  <td colspan="2" height="100%" id="0001-d0e181" title="Operative 9 Apr 2003" width="100%">
+                     <p>If customers are billed in the first or second month following a rental change, the difference between the new and previous rental charge will appear on the bill as a rental adjustment, covering the period from the tariff change date up until the end of the previous rental period. For example, if a tariff changes on 1st June and the customer is billed in July, an adjustment will be made on their July bill to cover the period 1st June - 30th June. The new rate will also be paid from 1st July to 30th September, and in each subsequent billing quarter - until such time as there is a further tariff change, the product is ceased, or service is terminated (whichever is the earliest).</p>
+                  </td>
+               </tr>
+               <tr>
+                  <td colspan="2" height="100%" id="0001-d0e190" title="Operative 9 Apr 2003" width="100%">
+                     <p>If a tariff changes on 1st June and the customer is billed in August, an adjustment will be made on their August bill to cover the period 1st June - 31st July. The new rate will also be paid from 1st August to 31st October, and in each subsequent billing quarter - until such time as there is a further tariff change, the product is ceased, or service is terminated (whichever is the earliest).</p>
+                  </td>
+               </tr>
+               <tr>
+                  <td colspan="2" height="100%" id="0001-d0e199" title="Operative 9 Apr 2003" width="100%">
+                     <p><b>Customers paying rental fees on a monthly basis</b></p>
+                  </td>
+               </tr>
+               <tr>
+                  <td colspan="2" height="100%" id="0001-d0e209" title="Operative 9 Apr 2003" width="100%">
+                     <p>Revised rental tariff changes will be payable from the first day of the month to the end of the month in which the customer is billed. The revised rate will also be paid in each subsequent billing month - until such time as there is a future tariff change, the product is ceased, or service is terminated (whichever is the earliest).</p>
+                  </td>
+               </tr>
+            </tbody>
+         </table>
+      </td>
+         ]]>
+    </pageData>
+</page>

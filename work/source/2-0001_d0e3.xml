@@ -1,0 +1,31 @@
+<page>
+    <metadata>
+        <title>BT Price List</title>
+    </metadata>
+    <pageTitle>General Notes</pageTitle>
+    <pageSubTitle>Content</pageSubTitle>
+    <pageData>
+        <![CDATA[
+        <td height="100%" valign="top">
+            <table>
+               <tbody>
+                  <tr>
+                     <td colspan="2" height="100%" id="0001-d0e14" title="Operative 5 Jan 2013" width="100%">
+                        <p>BT's prices change at various dates throughout the year.  With effect from 1 September 1991:</p>
+                        <p></p>
+                        <ul>
+                           <li><span>- Latest changes (new/amended information) on any page are denoted by italics with the corresponding operative date shown in either the "Operative Date" column adjacent to the effective price(s), at the end of the effective paragraph or note, or at the bottom of the page. </span></li>
+                           <li></li>
+                           <li><span>- Where changes are published simultaneously but have more than one operative date, the latest operative date is shown in either the "Operative Date" column, at the end of the paragraph or note, or at the bottom of the page. The earlier operative date may be annotated (by use of a note reference after the text relating to a note stating the operative date for that service). </span></li>
+                           <li></li>
+                           <li><span>- Where a further change with a new operative date is made to a page already showing italics, all previous italics on the page will be removed and only the new/amended information will be italicised.</span></li>
+                        </ul>
+                        <p></p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+         </td>
+        ]]>
+    </pageData>
+</page>

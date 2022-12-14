@@ -1,0 +1,3 @@
+Status,Batch,Template,Legacy Url,Source Path,New Path,New Url
+Migrate,Batch 1,content-test2,/page.aspx,/page.xml,/content/wknd-spa-react/us/en/aboutus,/content/wknd-spa-react/us/en/aboutus.html
+Migrate,Batch 1,content-test2,/page.aspx,/page.xml,/content/wknd-spa-react/us/en/location,/content/wknd-spa-react/us/en/location.html
